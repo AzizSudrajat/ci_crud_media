@@ -3,8 +3,7 @@
 		<!-- container -->
 		<div class="container">
 			<div class="col-md-4 footer-lef">
-				<img src="<?php echo base_url(); ?>assets/images2/a.jpg" alt="" class="img-responsive"/>
-				<img src="<?php echo base_url(); ?>assets/images2/b.jpg" alt="" class="img-responsive" style="padding-top:50px"/>
+				
 			</div>
 			<div class="col-md-offset-4 footer-right">
 				<h3>Tentang Jakarta</h3>

@@ -1,0 +1,19 @@
+.header {
+    background-color: #253d40;
+    border: medium none;
+    border-radius: 0;
+    margin: 0;
+    padding: 0.6em 0 1.8em;
+}
+
+.navbar-default {
+    background-color: #253d40 !important;
+    border-color: #253d40 !important;
+}
+
+.banner {
+    background: rgba(0, 0, 0, 0) url("../images2/ondel.jpg") no-repeat scroll 0 0 / cover ;
+    min-height: 650px;
+    padding-top: 0 !important;
+    text-align: center;
+}

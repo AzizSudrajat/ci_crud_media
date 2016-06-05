@@ -31,8 +31,8 @@ input[type="button"],input[type="submit"],li.parallelogram{
 	-ms-transition:0.5s all;
 }
 h1,h2,h3,h4,h5,h6{
-   margin:0;	
-}	
+   margin:0;
+}
 p{
 	margin:0;
 font-family: 'Open Sans', sans-serif;
@@ -208,13 +208,14 @@ span.glyphicon.glyphicon-search.edit {
 	border-color: rgb(216, 11, 54);
 	transition:0.5s;
 }
-.banner{
-	background:url(../images/banner.jpg);
-	background-size:cover;
-	min-height:650px;
-	padding-top:0em !important;
-	text-align:center;
+.banner {
+    background: rgba(0, 0, 0, 0) url("../images2/ondel.jpg");
+    background-size:cover;
+    min-height: 650px;
+    padding-top: 0 !important;
+    text-align: center;
 }
+
 /*-----*/
 ul.nav.navbar-nav.navbar-right.margin-top > li > a:hover{
   color: #fff !important;
@@ -459,8 +460,8 @@ i.arrow {
 	 color:#fff;
  }
 /* Login Button */
-#loginButton { 
-    display:inline-block;  
+#loginButton {
+    display:inline-block;
     position:relative;
     z-index:30;
     cursor:pointer;
@@ -539,7 +540,7 @@ fieldset#body {
   -o-transition: all .5s;
   outline:none;
   text-transform: uppercase;
-  
+
 }
 #loginForm #login:hover{
      background:#476bba;
@@ -668,13 +669,13 @@ i.glyphicon.glyphicon-font{
 	color:#E1009F ;
 }
 i.glyphicon.glyphicon-blackboard{
-    font-size: 3em;	
+    font-size: 3em;
 }
 .welcome-grid:hover.welcome-grid h3{
 	color:#E1009F ;
 }
 i.glyphicon.glyphicon-education{
-    font-size: 3em;	
+    font-size: 3em;
 }
 .welcome-grid:hover.welcome-grid h3{
 	color:#E1009F ;
@@ -914,7 +915,7 @@ color: #FFFFFF;
 .footer-right h3 {
     color: #fff;
     font-size: 1.5em;
-    
+
     margin-bottom: 10px;
     margin-top: 0;
 }
@@ -1341,7 +1342,7 @@ ul.p_n-list li a{
 }
 ul.p_n-list li a:hover{
 	background:#000;
-}		
+}
 /*-- .gallery__ Gallery Page Ends Here --*/
 /*-- contact --*/
 .contact{
@@ -2194,7 +2195,7 @@ ul.p_n-list li a:hover{
 	}
 	.rslides p {
 	    width: 77%;
-	}	
+	}
 	.welcome h2 {
 	    font-size: 1.8em;
 	    margin: 0;
@@ -2271,7 +2272,7 @@ ul.p_n-list li a:hover{
 	.testimonal-grid {
 	    width: 100%;
 	    float: none;
-	}	
+	}
 	.testi-info {
 	    margin-bottom: 2em;
 	}
