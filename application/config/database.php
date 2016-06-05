@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ci_tgsimk',
+	'hostname' => 'https://djakarta-azizsudr.rhcloud.com/phpmyadmin/',
+	'username' => 'adminrWQ5idT',
+	'password' => 'rxxTTjcBGtXQ',
+	'database' => 'djakarta',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
