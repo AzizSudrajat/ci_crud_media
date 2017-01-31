@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'https://djakarta-azizsudr.rhcloud.com/phpmyadmin/#PMAURL-0:index.php?db=&table=&server=1&target=&token=5c218f916dac60a37a77bde3b73d6f0d',
-	'username' => 'adminrWQ5idT',
-	'password' => 'rxxTTjcBGtXQ',
-	'database' => 'djakarta',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'ci_tgsimk',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
